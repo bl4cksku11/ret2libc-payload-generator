@@ -12,3 +12,16 @@ Finally, the payload is printed to the console for use in a ret2libc attack. The
 
 ### Note
 It's important to note that this script is just a payload generator and the exploit itself must be crafted and executed separately to target a specific program with a vulnerability that can be exploited using ret2libc technique.
+
+
+## Usage
+1. Clone the repository:
+```git clone https://github.com/blackskull0101/ret2libc-payload-generator.git```
+
+3. Move to ret2libc-payload-generator:
+```cd ret2libc-payload-generator```
+
+5. You must configure the addresses within the script before running it. Replace #here message comments with your addresses.
+
+7. Run the script:
+```python getpayload.py```
