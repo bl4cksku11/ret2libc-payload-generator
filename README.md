@@ -16,12 +16,18 @@ It's important to note that this script is just a payload generator and the expl
 
 ## Usage
 1. Clone the repository:
-```git clone https://github.com/blackskull0101/ret2libc-payload-generator.git```
+```bash
+git clone https://github.com/blackskull0101/ret2libc-payload-generator.git
+```
 
 3. Move to ret2libc-payload-generator:
-```cd ret2libc-payload-generator```
+```bash
+cd ret2libc-payload-generator
+```
 
 5. You must configure the addresses within the script before running it. Replace #here message comments with your addresses.
 
 7. Run the script:
-```python getpayload.py```
+```bash
+python getpayload.py
+```
