@@ -19,7 +19,7 @@ It's important to note that this script is just a payload generator and the expl
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/blackskull0101/ret2libc-payload-generator.git
+git clone https://github.com/bl4cksku11/ret2libc-payload-generator.git
 ```
 
 3. Move to ret2libc-payload-generator:
