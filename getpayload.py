@@ -7,7 +7,7 @@ from struct import pack
 
 print("*********************************************")
 print("*                                           *")
-print("*   BLACKSKULL - RET2LIBC PAYLOAD GENERATOR  *")
+print("*       RET2LIBC PAYLOAD GENERATOR          *")
 print("*                                           *")
 print("*********************************************")
 print()
