@@ -1,6 +1,6 @@
 # ret2libc-payload-generator
 
-**Author: Jose Rivas (Aka. BlackSkull)**
+**Author: El TITO S4vi**
 
 ## What is a RET2LIBC attack?
 Ret2libc is a type of exploit that takes advantage of a vulnerability in a program to bypass its security mechanisms and gain control of the program's execution flow. This technique is used to launch arbitrary code execution attacks when the target binary is running on a system with ASLR and NX protections enabled.
