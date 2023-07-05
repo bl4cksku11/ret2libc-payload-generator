@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-Author: BlackSkull
-Web: https://blackskull.gitbook.io/blackskull
+Web: https://hack.bl4cknet.xyz
 """
 from struct import pack
 
